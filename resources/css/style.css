@@ -6,9 +6,29 @@
   background-image: url(../images/the-flatiron-building.png);
   color:white;
 }
+#title
+{
+  font-size: 70px;
+  font-weight: bold;
+}
 #process, #work, #team, #contact
 {
   text-align: center
+}
+#designed
+{
+  font-size: 23px;
+  font-weight: bold;
+}
+#processtitle
+{
+  font-size: 32px;
+  font-weight: bold;
+}
+#identify
+{
+  font-size:23px;
+  font weight: bold;
 }
 .sections, .btn-nav
 {
@@ -21,4 +41,8 @@
   font-size: 11px;
   text-align: left;
   background-color: dimgray;
+}
+.bp
+{
+  font-size: 14px;
 }
