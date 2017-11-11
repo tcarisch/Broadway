@@ -4,7 +4,21 @@
 {
   text-align: center;
   background-image: url(../images/the-flatiron-building.png);
+  color:white;
 }
-
-#footer
-{text-align: left;}
+#process, #work, #team, #contact
+{
+  text-align: center
+}
+.sections, .btn-nav
+{
+  color:white;
+  font-size: 18px;
+}
+.footer
+{
+  color: white;
+  font-size: 11px;
+  text-align: left;
+  background-color: dimgray;
+}
